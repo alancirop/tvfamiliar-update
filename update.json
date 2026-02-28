@@ -1,7 +1,7 @@
 {
   "latestVersionCode": 20,
   "latestVersionName": 3.0,
-  "apkUrl": "tvfamiliar_v19.apk",
+  "apkUrl": "https://github.com/alancirop/tvfamiliar-update/releases/download/V20/tvfamiliar_v20.apk",
   "forceUpdate": true,
   "message": "Actualización obligatoria. Tocá ACTUALIZAR para continuar."
 }
