@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 1,
-  "latestVersionName": "1.0",
-  "apkUrl": "https://github.com/alancirop/tvfamiliar-update/releases/download/v1/tvfamiliar_v1.apk",
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1",
+  "apkUrl": "https://github.com/alancirop/tvfamiliar-update/releases/download/v2/tvfamiliar_v2.apk",
   "forceUpdate": true,
   "message": "Actualización obligatoria. Tocá ACTUALIZAR para continuar."
 }
