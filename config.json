@@ -1,0 +1,14 @@
+{
+  "hubcloud": {
+    "url": "https://hubcloud.club",
+    "active": true
+  },
+  "gdflix": {
+    "url": "https://gdflix.cfd",
+    "active": true
+  },
+  "vidsrc": {
+    "url": "https://vidsrc.me",
+    "active": true
+  }
+}
