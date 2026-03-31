@@ -1,7 +1,7 @@
 {
-    "latestVersionCode": 30,
-    "latestVersionName": "3.9",
-    "apkUrl": "https://github.com/alancirop/tvfamiliar-update/releases/download/v30/tvfamiliar_v30.apk",
+    "latestVersionCode": 31,
+    "latestVersionName": "4.0",
+    "apkUrl": "https://github.com/alancirop/tvfamiliar-update/releases/download/v31/tvfamiliar_v31.apk",
     "forceUpdate": true,
     "message": "Actualización obligatoria. Tocá ACTUALIZAR para continuar."
 }
