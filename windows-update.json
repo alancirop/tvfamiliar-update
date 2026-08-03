@@ -1,8 +1,8 @@
 {
-    "latestVersionCode":  191,
-    "latestVersionName":  "1.9.1",
+    "latestVersionCode":  192,
+    "latestVersionName":  "1.9.2",
     "forceUpdate":  false,
-    "installerUrl":  "https://github.com/alancirop/tvfamiliar-update/releases/download/windows-1.9.1/Instalar-NovusTV-Windows.exe",
-    "installerSha256":  "00BA1E82B7AE57B7AFA3A99F8C14BBC9CB48554D459FDC7098F7F8AE67FCDD07",
+    "installerUrl":  "https://github.com/alancirop/tvfamiliar-update/releases/download/windows-1.9.2/Instalar-NovusTV-Windows.exe",
+    "installerSha256":  "90FB12CA1DB1B51B2C8438BFF21B5EA3F99ADAD70233806882CC8CB8F0035972",
     "message":  "Hay una nueva version de NovusTV para Windows."
 }
