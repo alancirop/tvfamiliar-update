@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 154,
-  "latestVersionName": "4.121",
-  "apkUrl": "https://github.com/alancirop/tvfamiliar-update/releases/download/v154/tvfamiliar_v154.apk?v=154&verified=1",
+  "latestVersionCode": 155,
+  "latestVersionName": "4.122",
+  "apkUrl": "https://github.com/alancirop/tvfamiliar-update/releases/download/v155/tvfamiliar_v155.apk?v=155&verified=2",
   "forceUpdate": true,
   "message": "Actualizacion obligatoria. Toca ACTUALIZAR para continuar.",
-  "apkSha256": "d289d892cdc23f67b3f1bd69ede0842a7c6f761bb44aa73cd9a957dd4658999d"
+  "apkSha256": "aa414b565c279e0e8b9bf728bb273cec97f958711529b6811945acdc20e994b1"
 }
