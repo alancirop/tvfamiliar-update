@@ -1,7 +1,7 @@
-{
-  "latestVersionCode": 169,
-  "latestVersionName": "4.136",
-  "apkUrl": "https://github.com/alancirop/tvfamiliar-update/releases/download/v169/tvfamiliar_v169.apk",
-  "forceUpdate": true,
-  "message": "Actualizacion obligatoria. Toca ACTUALIZAR para continuar."
+﻿{
+    "latestVersionCode":  181,
+    "latestVersionName":  "4.148",
+    "apkUrl":  "https://github.com/alancirop/tvfamiliar-update/releases/download/v181/tvfamiliar_v181.apk",
+    "forceUpdate":  true,
+    "message":  "Actualizacion obligatoria. Toca ACTUALIZAR para continuar."
 }
