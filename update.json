@@ -1,7 +1,8 @@
-﻿{
-    "latestVersionCode":  199,
-    "latestVersionName":  "4.166",
-    "apkUrl":  "https://github.com/alancirop/tvfamiliar-update/releases/download/v199/tvfamiliar_v199.apk",
-    "forceUpdate":  true,
-    "message":  "Actualizacion obligatoria. Toca ACTUALIZAR para continuar."
+{
+  "latestVersionCode": 200,
+  "latestVersionName": "4.167",
+  "apkUrl": "https://github.com/alancirop/tvfamiliar-update/releases/download/v200/tvfamiliar_v200.apk",
+  "forceUpdate": true,
+  "message": "Nueva cartelera de Cine disponible. Tocá ACTUALIZAR para continuar.",
+  "apkSha256": "45b2091ed364edab5e4272bdf6c4037f48bac12d08172d929a34ab39b9a677b9"
 }
