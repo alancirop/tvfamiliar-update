@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 208,
-  "latestVersionName": "1.10.4",
+  "latestVersionCode": 209,
+  "latestVersionName": "1.10.5",
   "forceUpdate": false,
-  "installerUrl": "https://github.com/alancirop/tvfamiliar-update/releases/download/windows-1.10.4/Instalar-NovusTV-Windows.exe",
-  "installerSha256": "1a362ec339f40822b812ac5af1c308c31ed72e912f916cf8d6bc46d780f6820b",
-  "message": "Cine con tres estrenos, DNS para señales WEB y pantalla completa."
+  "installerUrl": "https://github.com/alancirop/tvfamiliar-update/releases/download/windows-1.10.5/Instalar-NovusTV-Windows.exe",
+  "installerSha256": "9C4EF07A825ABD7E76F7D15E1930C2EAD3BBC520BAC62D8E96AE8E99B4FFF9E8",
+  "message": "Catalogos completos por categoria y mejoras en LPF Play."
 }
