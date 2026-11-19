@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 209,
-  "latestVersionName": "1.10.5",
+  "latestVersionCode": 210,
+  "latestVersionName": "1.10.6",
   "forceUpdate": false,
-  "installerUrl": "https://github.com/alancirop/tvfamiliar-update/releases/download/windows-1.10.5/Instalar-NovusTV-Windows.exe",
-  "installerSha256": "9C4EF07A825ABD7E76F7D15E1930C2EAD3BBC520BAC62D8E96AE8E99B4FFF9E8",
-  "message": "Catalogos completos por categoria y mejoras en LPF Play."
+  "installerUrl": "https://github.com/alancirop/tvfamiliar-update/releases/download/windows-1.10.6/Instalar-NovusTV-Windows.exe",
+  "installerSha256": "500F843A398681235E2864DAFFC4F599B8880A9B4062A93FF5B33C44B2FF9EBB",
+  "message": "Imágenes de Eventos de Paramount+ corregidas."
 }
