@@ -1,8 +1,8 @@
 {
-    "latestVersionCode":  203,
-    "latestVersionName":  "1.9.13",
-    "forceUpdate":  false,
-    "installerUrl":  "https://github.com/alancirop/tvfamiliar-update/releases/download/windows-1.9.13/Instalar-NovusTV-Windows.exe",
-    "installerSha256":  "B49C41C962F5205609D4EFB3AB3AA8B9F604EF387D2D9D422F10DCDDAC7F04AC",
-    "message":  "Hay una nueva version de NovusTV para Windows."
+  "latestVersionCode": 207,
+  "latestVersionName": "1.10.3",
+  "forceUpdate": false,
+  "installerUrl": "https://github.com/alancirop/tvfamiliar-update/releases/download/windows-1.10.3/Instalar-NovusTV-Windows.exe",
+  "installerSha256": "a376664f1c6b913d87a1e373275a574b43072714fbd3d34641bf4f1358e9a037",
+  "message": "Agenda de fútbol actualizada y mejoras en Fútbol Argentino."
 }
