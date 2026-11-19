@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 207,
-  "latestVersionName": "1.10.3",
+  "latestVersionCode": 208,
+  "latestVersionName": "1.10.4",
   "forceUpdate": false,
-  "installerUrl": "https://github.com/alancirop/tvfamiliar-update/releases/download/windows-1.10.3/Instalar-NovusTV-Windows.exe",
-  "installerSha256": "a376664f1c6b913d87a1e373275a574b43072714fbd3d34641bf4f1358e9a037",
-  "message": "Agenda de fútbol actualizada y mejoras en Fútbol Argentino."
+  "installerUrl": "https://github.com/alancirop/tvfamiliar-update/releases/download/windows-1.10.4/Instalar-NovusTV-Windows.exe",
+  "installerSha256": "1a362ec339f40822b812ac5af1c308c31ed72e912f916cf8d6bc46d780f6820b",
+  "message": "Cine con tres estrenos, DNS para señales WEB y pantalla completa."
 }
