@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 210,
-  "latestVersionName": "1.10.6",
+  "latestVersionCode": 211,
+  "latestVersionName": "1.10.7",
   "forceUpdate": false,
-  "installerUrl": "https://github.com/alancirop/tvfamiliar-update/releases/download/windows-1.10.6/Instalar-NovusTV-Windows.exe",
-  "installerSha256": "500F843A398681235E2864DAFFC4F599B8880A9B4062A93FF5B33C44B2FF9EBB",
-  "message": "Imágenes de Eventos de Paramount+ corregidas."
+  "installerUrl": "https://github.com/alancirop/tvfamiliar-update/releases/download/windows-1.10.7/Instalar-NovusTV-Windows.exe",
+  "installerSha256": "FBFA5134ADBEA933BA267701885BF6D25E2E548356155CAC5BA95739BAE0C2D4",
+  "message": "LPF Play se reproduce dentro de Novus PC con tu sesión de Novus."
 }
